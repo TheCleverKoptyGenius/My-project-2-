@@ -136,3 +136,7 @@
 
 # GitHub — хранение исходного проекта.
 
+## Скачать игру и презентацию
+
+- [Готовая Windows-сборка и презентация](https://github.com/TheCleverKoptyGenius/My-project-2-/releases)
+- [Google Презентации](https://docs.google.com/presentation/d/1iX9qyMH4ibpEAM-iN2300lss0H0Adh7h3yKPGtZx7tI/edit?usp=sharing)
